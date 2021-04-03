@@ -5,7 +5,7 @@
       <input type="button" value="-" @click="deHandle({de:5})" />
       <span>{{count}}</span>
       <input type="button" value="+" @click="addHandle" />
-      <p>{{num}}</p>
+      <p>{{num}} HHHHHHHH</p>
       <input
         type="checkbox"
         v-model="toggle"
