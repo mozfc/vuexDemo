@@ -1,6 +1,6 @@
 <template>
   <div>
-    <h2>简易算器</h2>
+    <h2>简易算器 9999999</h2>
     <div>
       <input type="button" value="-" @click="deHandle({de:5})" />
       <span>{{count}}</span>
