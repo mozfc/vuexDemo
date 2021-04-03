@@ -1,11 +1,11 @@
 <template>
   <div>
-    <h2>简易算器</h2>
+    <h2>简易算器 0000000</h2>
     <div>
       <input type="button" value="-" @click="deHandle({de:5})" />
       <span>{{count}}</span>
       <input type="button" value="+" @click="addHandle" />
-      <p>{{num}}</p>
+      <p>{{num}} HHHHHHHH</p>
       <input
         type="checkbox"
         v-model="toggle"
